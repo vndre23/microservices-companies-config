@@ -4,3 +4,4 @@ db:
   password: root
   url: jdbc:postgresql://localhost:5432/companies
   username: root
+  driverClassName: org.postgresql.Driver
